@@ -1,11 +1,10 @@
 package automation;
 
-public class proj111 {
-
-	public static void main(String[] args)
+public class proj111 
+{
+	public void register()
 	{
-	System.out.println("new class of proj111");
-
+		System.out.println();
 	}
 
 }
